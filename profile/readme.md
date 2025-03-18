@@ -1,4 +1,4 @@
-## Grails repositories have been relocated to the Apache GitHub Organization:
+## Some Grails repositories have been relocated to the Apache GitHub Organization:
 
 The active Grails project repositories have been moved to the Apache GitHub organization.  You can find them [here](https://github.com/apache?q=grails-&type=all&language=&sort=#org-profile-repositories)
 
